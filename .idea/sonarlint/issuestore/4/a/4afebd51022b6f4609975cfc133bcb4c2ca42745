@@ -1,0 +1,9 @@
+
+´
+java:S6548;"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ìçÆ³şÿÿÿÿ
+C
+java:S4274["(Replace this assert with a proper check.(Ô£íûùÿÿÿÿ
+i
+java:S1871Ç"MThis branch's code block is the same as the block for the branch on line 195.(ÒÌâ–øÿÿÿÿ
+i
+java:S1871×"MThis branch's code block is the same as the block for the branch on line 211.(ÒÌâ–øÿÿÿÿ
