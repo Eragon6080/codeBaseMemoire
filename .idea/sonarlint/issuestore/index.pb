@@ -1,10 +1,4 @@
 
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-H
-src/main/java/JetUML.css,8\9\895d295702ff6bd4bf072207f14ecaf3d5d0017b
 U
 %src/main/java/org/example/JetUML.java,f\9\f9f7f57c471ea44ceb1242564754d80ff0a80111
 o
