@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-*.ide/sonarlint/**
+*.ide/sonarlint/
 
 ### Eclipse ###
 .apt_generated
