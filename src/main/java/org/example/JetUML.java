@@ -36,7 +36,7 @@ import org.example.gui.DeserializationErrorAlert;
 import org.example.gui.EditorFrame;
 import org.example.gui.GuiUtils;
 import org.example.gui.NotificationService;
-import org.example.gui.tips.TipDialog;
+import org.example.tips.TipDialog;
 import org.example.persistence.DeserializationException;
 import org.example.persistence.PersistenceService;
 

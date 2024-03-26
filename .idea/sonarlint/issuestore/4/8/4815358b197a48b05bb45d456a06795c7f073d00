@@ -1,0 +1,11 @@
+
+‚
+java:S1488 "fImmediately return this expression instead of assigning it to the temporary variable "tipDialogScene".(ïŠ”õúÿÿÿÿ
+p
+java:S1450P"ZRemove the "aCurrentTip" field and declare it as a local variable in the relevant methods.(ûá›¹
+H
+java:S1602œ",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ
+H
+java:S1602Ø",Remove useless curly braces around statement(ÒÌâ–øÿÿÿÿ
+E
+java:S1172©".Remove this unused method parameter "pParent".(½¼Ã“

@@ -34,19 +34,19 @@ import org.example.diagram.Diagram;
 import org.example.diagram.DiagramElement;
 import org.example.diagram.Edge;
 import org.example.diagram.Node;
-import org.example.diagram.edges.CallEdge;
-import org.example.diagram.edges.ConstructorEdge;
-import org.example.diagram.edges.ReturnEdge;
-import org.example.diagram.nodes.CallNode;
-import org.example.diagram.nodes.ImplicitParameterNode;
+import org.example.edges.CallEdge;
+import org.example.edges.ConstructorEdge;
+import org.example.edges.ReturnEdge;
+import org.example.nodes.CallNode;
+import org.example.nodes.ImplicitParameterNode;
 import org.example.geom.Point;
 import org.example.geom.Rectangle;
 import org.example.rendering.StringRenderer.Alignment;
 import org.example.rendering.StringRenderer.TextDecoration;
-import org.example.rendering.edges.CallEdgeRenderer;
-import org.example.rendering.edges.ReturnEdgeRenderer;
-import org.example.rendering.nodes.CallNodeRenderer;
-import org.example.rendering.nodes.ImplicitParameterNodeRenderer;
+import org.example.edges.CallEdgeRenderer;
+import org.example.edges.ReturnEdgeRenderer;
+import org.example.nodes.CallNodeRenderer;
+import org.example.nodes.ImplicitParameterNodeRenderer;
 
 import javafx.scene.canvas.GraphicsContext;
 

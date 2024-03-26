@@ -21,13 +21,13 @@
 package org.example.rendering;
 
 import org.example.diagram.Diagram;
-import org.example.diagram.edges.StateTransitionEdge;
-import org.example.diagram.nodes.FinalStateNode;
-import org.example.diagram.nodes.InitialStateNode;
-import org.example.diagram.nodes.StateNode;
-import org.example.rendering.edges.StateTransitionEdgeRenderer;
-import org.example.rendering.nodes.CircularStateNodeRenderer;
-import org.example.rendering.nodes.StateNodeRenderer;
+import org.example.edges.StateTransitionEdge;
+import org.example.nodes.FinalStateNode;
+import org.example.nodes.InitialStateNode;
+import org.example.nodes.StateNode;
+import org.example.edges.StateTransitionEdgeRenderer;
+import org.example.nodes.CircularStateNodeRenderer;
+import org.example.nodes.StateNodeRenderer;
 
 /**
  * The renderer for state diagrams.

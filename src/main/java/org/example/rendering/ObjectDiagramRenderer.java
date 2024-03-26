@@ -21,14 +21,14 @@
 package org.example.rendering;
 
 import org.example.diagram.Diagram;
-import org.example.diagram.edges.ObjectCollaborationEdge;
-import org.example.diagram.edges.ObjectReferenceEdge;
+import org.example.edges.ObjectCollaborationEdge;
+import org.example.edges.ObjectReferenceEdge;
 import org.example.diagram.nodes.FieldNode;
-import org.example.diagram.nodes.ObjectNode;
-import org.example.rendering.edges.ObjectCollaborationEdgeRenderer;
-import org.example.rendering.edges.ObjectReferenceEdgeRenderer;
-import org.example.rendering.nodes.FieldNodeRenderer;
-import org.example.rendering.nodes.ObjectNodeRenderer;
+import org.example.nodes.ObjectNode;
+import org.example.edges.ObjectCollaborationEdgeRenderer;
+import org.example.edges.ObjectReferenceEdgeRenderer;
+import org.example.nodes.FieldNodeRenderer;
+import org.example.nodes.ObjectNodeRenderer;
 
 /**
  * The renderer for object diagrams.

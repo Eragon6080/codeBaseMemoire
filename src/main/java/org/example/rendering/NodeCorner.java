@@ -21,7 +21,7 @@
 package org.example.rendering;
 
 import org.example.geom.Direction;
-import org.example.rendering.edges.NodeIndex;
+import org.example.edges.NodeIndex;
 
 /**
  * Represents the 4 corners of a node. Used to plan the placement of self-edges.

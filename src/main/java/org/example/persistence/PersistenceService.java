@@ -31,11 +31,11 @@ import java.util.Optional;
 
 import org.example.diagram.Diagram;
 import org.example.diagram.DiagramType;
-import org.example.diagram.validator.DiagramValidator;
-import org.example.diagram.validator.Violation;
+import org.example.validator.DiagramValidator;
+import org.example.validator.Violation;
 import org.example.persistence.DeserializationException.Category;
-import org.example.persistence.json.JsonException;
-import org.example.persistence.json.JsonParser;
+import org.example.json.JsonException;
+import org.example.json.JsonParser;
 
 /**
  * Services for saving and loading Diagram objects. The files are encoded

@@ -28,8 +28,8 @@ import org.example.diagram.DiagramElement;
 import org.example.diagram.Properties;
 import org.example.diagram.Property;
 import org.example.diagram.PropertyName;
-import org.example.diagram.builder.CompoundOperation;
-import org.example.diagram.builder.SimpleOperation;
+import org.example.builder.CompoundOperation;
+import org.example.builder.SimpleOperation;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;

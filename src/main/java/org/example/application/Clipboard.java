@@ -22,7 +22,7 @@ package org.example.application;
 
 import org.example.annotations.Singleton;
 import org.example.diagram.*;
-import org.example.diagram.nodes.PointNode;
+import org.example.nodes.PointNode;
 import org.example.geom.Point;
 
 import java.util.ArrayList;

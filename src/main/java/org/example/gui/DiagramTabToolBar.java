@@ -34,7 +34,7 @@ import org.example.diagram.Prototypes;
 import org.example.geom.Rectangle;
 import org.example.rendering.DiagramRenderer;
 import org.example.rendering.ToolGraphics;
-import org.example.rendering.nodes.AbstractNodeRenderer;
+import org.example.nodes.AbstractNodeRenderer;
 
 import javafx.geometry.Orientation;
 import javafx.geometry.Pos;

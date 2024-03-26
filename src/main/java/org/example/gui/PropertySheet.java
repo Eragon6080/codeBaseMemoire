@@ -27,10 +27,10 @@ import org.example.application.ApplicationResources;
 import org.example.diagram.DiagramElement;
 import org.example.diagram.Property;
 import org.example.diagram.PropertyName;
-import org.example.diagram.nodes.ClassNode;
-import org.example.diagram.nodes.InterfaceNode;
-import org.example.diagram.nodes.NoteNode;
-import org.example.diagram.nodes.PackageDescriptionNode;
+import org.example.nodes.ClassNode;
+import org.example.nodes.InterfaceNode;
+import org.example.nodes.NoteNode;
+import org.example.nodes.PackageDescriptionNode;
 
 import javafx.collections.FXCollections;
 import javafx.event.EventHandler;

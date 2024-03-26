@@ -49,7 +49,7 @@ import org.example.application.UserPreferences;
 import org.example.application.UserPreferences.BooleanPreference;
 import org.example.diagram.Diagram;
 import org.example.diagram.DiagramType;
-import org.example.gui.tips.TipDialog;
+import org.example.tips.TipDialog;
 import org.example.persistence.DeserializationException;
 import org.example.persistence.PersistenceService;
 

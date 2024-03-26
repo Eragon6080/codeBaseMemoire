@@ -31,8 +31,8 @@ import java.util.Optional;
 import org.example.application.UserPreferences;
 import org.example.diagram.Diagram;
 import org.example.diagram.DiagramType;
-import org.example.diagram.builder.DiagramBuilder;
-import org.example.diagram.validator.DiagramValidator;
+import org.example.builder.DiagramBuilder;
+import org.example.validator.DiagramValidator;
 import org.example.geom.Direction;
 import org.example.geom.Rectangle;
 

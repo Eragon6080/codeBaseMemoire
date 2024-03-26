@@ -26,8 +26,8 @@ import org.example.diagram.Edge;
 import org.example.diagram.Node;
 import org.example.diagram.Properties;
 import org.example.diagram.Property;
-import org.example.persistence.json.JsonArray;
-import org.example.persistence.json.JsonObject;
+import org.example.json.JsonArray;
+import org.example.json.JsonObject;
 
 /**
  * Converts a graph to JSON notation. The notation includes:

@@ -27,8 +27,8 @@ import java.util.function.Function;
 
 import org.example.diagram.DiagramElement;
 import org.example.diagram.Node;
-import org.example.diagram.builder.CompoundOperation;
-import org.example.diagram.builder.DiagramBuilder;
+import org.example.builder.CompoundOperation;
+import org.example.builder.DiagramBuilder;
 import org.example.geom.Rectangle;
 
 /**

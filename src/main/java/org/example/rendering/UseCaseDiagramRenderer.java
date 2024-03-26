@@ -20,18 +20,17 @@
  ******************************************************************************/
 package org.example.rendering;
 
-import org.example.rendering.AbstractDiagramRenderer;
 import org.example.diagram.Diagram;
-import org.example.diagram.edges.UseCaseAssociationEdge;
-import org.example.diagram.edges.UseCaseDependencyEdge;
-import org.example.diagram.edges.UseCaseGeneralizationEdge;
-import org.example.diagram.nodes.ActorNode;
-import org.example.diagram.nodes.UseCaseNode;
-import org.example.rendering.edges.UseCaseAssociationEdgeRenderer;
-import org.example.rendering.edges.UseCaseDependencyEdgeRenderer;
-import org.example.rendering.edges.UseCaseGeneralizationEdgeRenderer;
-import org.example.rendering.nodes.ActorNodeRenderer;
-import org.example.rendering.nodes.UseCaseNodeRenderer;
+import org.example.edges.UseCaseAssociationEdge;
+import org.example.edges.UseCaseDependencyEdge;
+import org.example.edges.UseCaseGeneralizationEdge;
+import org.example.nodes.ActorNode;
+import org.example.nodes.UseCaseNode;
+import org.example.edges.UseCaseAssociationEdgeRenderer;
+import org.example.edges.UseCaseDependencyEdgeRenderer;
+import org.example.edges.UseCaseGeneralizationEdgeRenderer;
+import org.example.nodes.ActorNodeRenderer;
+import org.example.nodes.UseCaseNodeRenderer;
 
 /**
  * The renderer for use case diagrams.

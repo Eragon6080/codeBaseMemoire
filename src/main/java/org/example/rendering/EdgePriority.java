@@ -21,10 +21,10 @@
 package org.example.rendering;
 
 import org.example.diagram.Edge;
-import org.example.diagram.edges.AggregationEdge;
-import org.example.diagram.edges.AssociationEdge;
-import org.example.diagram.edges.DependencyEdge;
-import org.example.diagram.edges.GeneralizationEdge;
+import org.example.edges.AggregationEdge;
+import org.example.edges.AssociationEdge;
+import org.example.edges.DependencyEdge;
+import org.example.edges.GeneralizationEdge;
 
 /**
  * Represents the priority level for edges so that Layouter can lay out edges in a hierarchical order. 

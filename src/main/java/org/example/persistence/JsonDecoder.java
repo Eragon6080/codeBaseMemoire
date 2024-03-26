@@ -28,9 +28,9 @@ import org.example.diagram.Node;
 import org.example.diagram.Property;
 import org.example.geom.Point;
 import org.example.persistence.DeserializationException.Category;
-import org.example.persistence.json.JsonArray;
-import org.example.persistence.json.JsonException;
-import org.example.persistence.json.JsonObject;
+import org.example.json.JsonArray;
+import org.example.json.JsonException;
+import org.example.json.JsonObject;
 
 /**
  * Converts a JSONObject to a diagram. Instances of this class are intended to be
