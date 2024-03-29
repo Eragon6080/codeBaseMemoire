@@ -1,7 +1,0 @@
-
-r
-java:S1488:"]Immediately return this expression instead of assigning it to the temporary variable "clone".(Ş¾æB
-C
-java:S4274&"(Replace this assert with a proper check.(ÈÇîáúÿÿÿÿ
-i
-java:S29758"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ìëãÒ
